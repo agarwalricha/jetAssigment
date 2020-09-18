@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jet2Travel</string>
+    <string name="welcome">Welcome To Speedy Articles</string>
+    <string name="articles">Articles</string>
+    <string name="ok">Ok</string>
+    <string name="speedy_articles">Speedy Articles</string>
+    <string name="no_article">No Articles found !!</string>
+</resources>
